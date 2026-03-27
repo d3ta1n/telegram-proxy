@@ -1,0 +1,2 @@
+с обходом бс: https://t.me/proxy?server=217.16.30.89&port=443&secret=dd6fab08b49908b2b3c055eb6e7055ff07; https://t.me/proxy?server=217.16.30.125&port=443&secret=dd6fab08b49908b2b3c055eb6e7055ff07
+без обхода бс: https://t.me/proxy?server=85.193.85.28&port=443&secret=78a436a852f8805bfd3e0063b5b9151d; https://t.me/proxy?server=89.169.3.26&port=443&secret=230c52ea135ec36b9c84a9f9ab6a7663
